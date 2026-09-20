@@ -1,0 +1,8 @@
+__pycache__/ 
+*.py[cod] 
+src/__pycache__/ 
+models/*.pkl 
+models/legalbert_finetuned/model.safetensors 
+models/legalbert_finetuned/training_args.bin 
+venv/ 
+.env
