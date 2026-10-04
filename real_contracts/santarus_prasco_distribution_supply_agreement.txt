@@ -1,0 +1,38 @@
+DISTRIBUTION AND SUPPLY AGREEMENT
+
+by and between
+
+Santarus, Inc.
+and
+Prasco, LLC
+
+dated April 26, 2010
+
+This Distribution and Supply Agreement (this "Agreement") is made as of April 26, 2010 (the "Effective Date"), by and among Santarus, Inc., a Delaware corporation (hereinafter referred to as "Manufacturer"), and Prasco, LLC, an Ohio limited liability company (hereinafter referred to as "Distributor").
+
+ARTICLE 8
+REPRESENTATIONS AND WARRANTIES
+
+8.4 Limitations of Liabilities.
+
+(a) Limitation on Certain Damages. Except for and only to the extent of any amounts paid to a Third Party resulting in an indemnifiable claim hereunder and in the case of breach of Article 11, in no event shall either Party be liable to the other Party for any special, indirect, punitive, or consequential damages of any kind (including, without limitation, lost profits, business, or goodwill) in connection with any Products supplied or to be supplied hereunder, or any other matter covered by this Agreement, regardless of whether such liability is based on breach of contract, tort, strict liability, breach of warranty, or any other theory, even if such Party has been advised of the possibility of such damages.
+
+(b) Maximum Aggregate Liability. Except for and only to the extent of any amounts paid to a Third Party resulting in an indemnifiable claim hereunder, obligations under Sections 5.6 or 5.7 (which are subject to Section 5.8) or Section 7.2, and accrued and unpaid amounts due under Article 3, in no event shall either Party's maximum aggregate liability to the other Party or any other Person with respect to any and all claims concerning the Products or any other matter covered by this Agreement, regardless of the form of action, exceed $15 million.
+
+ARTICLE 10
+TERM AND TERMINATION
+
+10.1 Term. This Agreement shall commence as of the Effective Date and shall continue for a period of five (5) years after the first Commencement Date to occur, unless terminated earlier as provided below (the "Initial Term"). This Agreement will automatically renew for additional one (1) year terms (each, a "Renewal Term") unless either Party elects not to renew this Agreement by written notice to the other Party, which notice must be provided at least six (6) months prior to the expiration of the Initial Term or the applicable Renewal Term, as the case may be. The Initial Term and any applicable Renewal Term are collectively referred to herein as the "Term."
+
+10.2 Termination by Manufacturer.
+
+(b) Convenience. Manufacturer may terminate this Agreement (i) with respect to a Product SKU, at any time prior to the First Commercial Sale of that Product SKU for any reason upon written notice to Distributor, provided Manufacturer gives the notice before it gives any written approval under Section 2.1(c) for Distributor to engage in pre-booking activities, (ii) with respect to a Product SKU, at any time following the First Commercial Sale of that Product SKU upon thirty (30) days written notice to Distributor in the event that a Competitive Product (with respect to that Product SKU) that was previously launched is no longer available, and (iii) in whole or on a Product SKU basis, at any time following the First Commercial Sale of a particular Product SKU for any reason upon nine (9) months' written notice to Distributor.
+
+10.4 Termination by Non-Defaulting Party upon Event of Default. Upon the occurrence of an Event of Default, in addition to all rights and remedies provided by applicable law, the non-defaulting Party in its sole discretion may terminate this Agreement upon thirty (30) days' prior notice to the defaulting Party.
+
+10.5 Termination by Mutual Agreement. In the event that the Parties mutually determine that the arrangements contemplated by this Agreement are no longer in the best interests of the Parties or the Parties are not otherwise compatible, the Parties may at any time, by mutual written agreement, terminate this Agreement in its entirety or with regard to one or more Product SKUs.
+
+ARTICLE 12
+MISCELLANEOUS
+
+12.13 Governing Law. This Agreement shall be governed by, and construed and enforced in accordance with, the laws of the State of New York.

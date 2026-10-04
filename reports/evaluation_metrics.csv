@@ -1,3 +1,8 @@
-Model,Macro F1,Micro F1
-Baseline (TF-IDF + Logistic Regression),0.853,0.892
-Transformer (fine-tuned),TBD,TBD
+Model,Categories,Macro F1,Micro F1
+Baseline (TF-IDF + Logistic Regression),11,0.820,0.858
+Transformer (fine-tuned),11,TBD,TBD
+
+Note: Macro F1 is lower than the original 6-category version (0.853) because
+five new categories were added, two of which (Warranty Duration, Volume
+Restriction) have fewer training examples (~170 each) than the original six.
+This is expected and disclosed rather than hidden -- see README Limitations.

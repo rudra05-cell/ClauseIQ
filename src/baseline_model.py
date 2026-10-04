@@ -20,6 +20,11 @@ CATEGORIES = [
     "Cap On Liability",
     "Uncapped Liability",
     "Non-Compete",
+    "Audit Rights",
+    "Insurance",
+    "Exclusivity",
+    "Warranty Duration",
+    "Volume Restriction",
 ]
 
 
@@ -35,7 +40,7 @@ def train() -> dict:
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
     vectorizer = TfidfVectorizer(
-        max_features=5000,
+        max_features=6000,
         ngram_range=(1, 2),
         stop_words="english",
         sublinear_tf=True,

@@ -8,8 +8,6 @@ RISK_WEIGHT = {"High": 3, "Medium": 1, "Low": 0}
 
 
 def compute_overall_risk(results: list) -> str:
-    """Simple, explainable aggregation: the document's overall risk is the
-    highest individual risk level found among its flagged clauses."""
     if not results:
         return "None"
     levels = {r["level"] for r in results}

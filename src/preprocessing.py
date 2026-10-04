@@ -16,6 +16,11 @@ CATEGORIES = [
     "Cap On Liability",
     "Uncapped Liability",
     "Non-Compete",
+    "Audit Rights",
+    "Insurance",
+    "Exclusivity",
+    "Warranty Duration",
+    "Volume Restriction",
 ]
 
 
